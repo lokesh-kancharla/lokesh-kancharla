@@ -1,6 +1,6 @@
 # Hi 👋 I'm Lokesh Kancharla
 
-### Data & Financial Analyst | SQL • Power BI • Python | M.S. Computer Science
+### MS Computer Science | Data & Financial Analyst | AI & Machine Learning
 
 Computer Science graduate with 3+ years of experience working with real-world
 financial, business, and structured datasets using Python, SQL, Power BI, and
